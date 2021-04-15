@@ -23,3 +23,6 @@ git branch => no muestra la rama donde estamos
 git pull origin <branch> => trae los cambios del branch
 
 git fetch => trae actualizaciones del repositorio
+
+
+modificando archivo
