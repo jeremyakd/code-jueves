@@ -1,3 +1,3 @@
 # code-jueves
 
-cambio de prueba. bash, repo
+cambio de prueba. bash, repositorio
