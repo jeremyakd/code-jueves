@@ -24,3 +24,5 @@ git pull origin <branch> => trae los cambios del branch
 
 git fetch => trae actualizaciones del repositorio
 -------------------------------------------------gsd
+
+daaaaleeee giiiiiitttt
